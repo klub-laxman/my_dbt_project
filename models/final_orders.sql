@@ -1,1 +1,1 @@
-select user_id, status from raw_orders ; 
+select user_id,order_date from raw_orders ; 
