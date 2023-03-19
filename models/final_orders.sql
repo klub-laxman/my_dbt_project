@@ -1,1 +1,0 @@
-select user_id,order_date from raw_orders 
